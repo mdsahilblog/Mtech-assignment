@@ -1,6 +1,6 @@
 #from operator import itemgetter
 listoftuple=[(167,51,"U"),(182,62,"N"),(176,69,"N"),(173,64,"N"),(172,65,"N"),(174,56,"U"),(169,58,"N"),(173,57,"N"),(170,55,"N")]
-# U-Underweight, N-NormalWeight
+# U-Underweight, N-NormalWeight .
 list1,list2,list3,s1=[],[],[],[]
 
 for x,y,z in listoftuple:
