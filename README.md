@@ -49,4 +49,4 @@ dependent variable upto k no :  ['N', 'N', 'N', 'N']
 The occurrance of each variable in dependent column :  {'N': 4}
 The maximum occurrence of item is or (predicted) for height-  180 and weight-  70 is :  N
 ------------------------------------------------------
-Thank you---------------------------------------------
+Thank you-----------------------------------------------
